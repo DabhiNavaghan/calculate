@@ -1,59 +1,58 @@
-Flutter Calculator
-This is a basic calculator app built with Flutter using the GetX state management library. The app allows users to perform basic arithmetic operations and displays the result on the screen.
 
-Features
-Simple and intuitive design and layout
-Buttons for numbers 0-9, addition (+), subtraction (-), multiplication (*), division (/), and equals (=)
-Logic to perform basic arithmetic operations
-Clear button to reset the calculator to its initial state
-Ability to chain multiple operations (e.g., 5 + 3 * 2)
-Error handling for scenarios like dividing by zero or invalid calculations
-Screenshots
-Add screenshots of your app here if applicable.
+# Flutter Calculator
 
-Getting Started
-Prerequisites
-Flutter SDK: Installation Guide
-Installation
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/flutter-calculator.git
-Navigate to the project directory:
-
-bash
-Copy code
-cd flutter-calculator
-Install the dependencies:
-
-Run the Command in your terminal
-flutter pub get
-Run the app:
-
-Usage
-Launch the app on your device or simulator.
-Tap the number buttons (0-9) to enter numbers.
-Tap the operation buttons (+, -, *, /) to perform arithmetic operations.
-Tap the equals (=) button to display the result.
-Tap the clear button to reset the calculator.
-Chain multiple operations together by tapping numbers and operations successively (e.g., 5 + 3 * 2).
-Error messages will be displayed for scenarios like dividing by zero or invalid calculations.
+This is a basic calculator app built with Flutter using the GetX state management library. It allows users to perform simple arithmetic calculations and includes additional features such as clearing the calculator and error handling.
 
 
 
-Technologies Used
-Flutter
-GetX State Management
-Contributing
-Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
+## Acknowledgements
+The development of this calculator app was inspired by the Flutter framework and the GetX state management library.
 
-License
-This project is licensed under the MIT License.
 
-Acknowledgements
-Flutter
-GetX
-Add any other acknowledgements or references here.
-Contact
-For any questions or inquiries, please contact DabhiNavaghan
+
+
+## Features
+- Simple and intuitive design
+- Buttons for numbers 0-9, addition (+), subtraction (-), multiplication (*), division (/), and equals (=)
+- Perform basic arithmetic operations
+- Display the result of the calculation on the screen
+- Clear button to reset the calculator
+- Enable chaining of multiple operations (e.g., 5 + 3 * 2)
+- Error handling for scenarios like dividing by zero or invalid calculations
+
+## Installation
+Clone the repository and run the following commands
+
+- gh repo clone DabhiNavaghan/calculate
+  Otherwise  download from here
+- https://github.com/DabhiNavaghan/calculate.git
+
+And run the commands.
+
+- flutter clean
+- flutter pub get
+- flutter run
+## 🔗 Links
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/DabhiNavaghan/calculate.git)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dabhi-navaghan-5091031b2/)
+- [instagram](https://www.instagram.com/ll_dabhi_on_fire_ll/)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on Flutter
+
+🧠 I'm currently learning advanced Flutter Topics
+
+👯‍♀️ I'm looking to collaborate on Flutter Projects
+
+🤔 I'm looking for help with Animations and Core Functionality Of Android And channel code
+
+💬 Ask me about Flutter mobile and web development
+
+📫 How to reach me
+- social media
+    - [insta](https://www.instagram.com/ll_dabhi_on_fire_ll/)
+    - [linkedin](https://www.linkedin.com/in/dabhi-navaghan-5091031b2/)
+    - [github](https://github.com/DabhiNavaghan/)
+
+
