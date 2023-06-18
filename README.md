@@ -56,3 +56,5 @@ And run the commands.
     - [github](https://github.com/DabhiNavaghan/)
 
 
+## Outputs
+![](../../DOCUMENTS/Screenshot_20230618-122109.png)![](../../DOCUMENTS/Screenshot_20230618-122120.png)
