@@ -57,4 +57,5 @@ And run the commands.
 
 
 ## Outputs
-![](../../DOCUMENTS/Screenshot_20230618-122109.png)![](../../DOCUMENTS/Screenshot_20230618-122120.png)
+![Screenshot_20230618-122120](https://github.com/DabhiNavaghan/calculate/assets/88158980/49812f6d-62d8-4e14-9e56-47a559cc7996)
+![Screenshot_20230618-122109](https://github.com/DabhiNavaghan/calculate/assets/88158980/ffb30270-e3d7-4e1b-9ecc-d54534bc5879)
